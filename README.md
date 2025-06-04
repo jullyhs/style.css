@@ -1,1 +1,15 @@
 # style.css
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 20px;
+}
+
+h1 {
+  color: #0066cc;
+}
+
+p {
+  font-size: 18px;
+}
