@@ -1,15 +1,22 @@
 # style.css
+style.css
 body {
-  background-color: #f0f0f0;
-  font-family: Arial, sans-serif;
-  color: #333;
-  margin: 20px;
+  font-size: 16px;
+  background: #fff;
+  color: #000;
 }
 
-h1 {
-  color: #0066cc;
+#acessibilidade {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background: #eee;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 1000;
 }
 
-p {
-  font-size: 18px;
+.contraste-alto {
+  background: #000 !important;
+  color: #fff !important;
 }
